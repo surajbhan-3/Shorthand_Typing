@@ -29,190 +29,139 @@
 
 * IRL :- In real life
 
-<details><summary>QOL</summary>
-Quality of life
-</details>
+
+* QOL :- Quality of life
 
 
-<details><summary>OBVS</summary>
-Obviously
-</details>
-
-<details><summary>OMW</summary>
-On my way
-</details>
 
 
-<details><summary>BFF</summary>
-Best friend forever
-</details>
+* OBVS :- Obviously
 
-<details><summary>BB</summary>
-Bye Bye
-</details>
-
-<details><summary>ICQ</summary>
-I seek you
-</details>
-
-<details><summary>5N</summary>
-Fine
-</details>
-
-<details><summary>THX</summary>
-Thanks
-</details>
-
-<details><summary>BEG </summary>
-Big evil grin
-</details>
-
-<details><summary>STR8</summary>
-Straight
-</details>
-
-<details><summary>BBL </summary>
-Be back later
-</details>
-
-<details><summary>L8</summary>
-Late
-</details>
-
-<details><summary>GTH </summary>
-Go to hell
-</details>
-
-<details><summary>2N8 </summary>
-Tonight
-</details>
-
-<details><summary>BFN </summary>
-Bye for now
-</details>
-
-<details><summary>ASAIC </summary>
-As soon as i can 
-</details>
-
-<details><summary> DIY</summary>
-Do yourself
-</details>
-
-<details><summary>GTG </summary>
-Go to go
-</details>
-
-<details><summary>SS </summary>
-So sorry , screenshot
-</details>
-
-<details><summary>RT</summary>
-Retweet
-</details>
-
-<details><summary>RL </summary>
-Real life
-</details>
-
-<details><summary>AKA</summary>
-Also known as 
-</details>
-
-<details><summary>SD</summary>
-Sweet dreams
-</details>
-
-<details><summary>IDGI </summary>
-I don't get it 
-</details>
+* OMW :- On my way
 
 
-<details><summary>GBTW </summary>
-Get back to work 
-</details>
+* BFF :- Best friend forever
+* BB :- Bye Bye
+* ICQ :- I seek you
 
-<details><summary>EOD </summary>
-End of the day
-</details>
+* 5N :- Fine
 
-<details><summary>EOM </summary>
-End of message
-</details>
+* THX :- Thanks
+* BEG :- Big evil grin
+* STR8 :- Straight
+* BBL :- Be back later
 
-<details><summary>AAR </summary>
-At any rate
-</details>
 
-<details><summary>G2B </summary>
-Going to bed
-</details>
 
-<details><summary>TYT </summary>
-Take your time
-</details>
+* L8 :- Late
 
-<details><summary>TTYL </summary>
+
+
+* GTH :- Go to hell
+
+* 2N8 :- Tonight
+
+
+
+* BFN :- Bye for now
+
+
+ * ASAIC :- As soon as i can 
+
+* DIY :-  Do yourself
+
+ * GTG :- Go to go
+
+* SS :- So sorry , screenshot
+
+* RT :- Retweet
+* RL :-  Real life
+* AKA :- Also known as 
+* SD :- Sweet dreams
+* IDGI :- I don't get it 
+* GBTW :- Get back to work 
+
+* EOD :- End of the day
+
+* EOM :- End of message
+
+* AAR :- At any rate
+
+* G2B :- Going to bed
+
+* TYT :- Take your time
+
 Talk to you later
-</details>
 
-<details><summary>POV </summary>
-Point of view
-</details>
+* POV :- Point of view
 
-<details><summary>CYL </summary>
-Call you later
-</details>
+
+* CYL :- Call you later
+
 
 * BRB :- Be right back 
 * YOLO :- You only live once
 * PPL :- People
-
-<details><summary> AAMOF</summary>
-As a matter of fact
-</details>
-
-<details><summary>BAU </summary>
-Business as usual 
-</details>
-
-<details><summary> NVM</summary>
-Nevermind
-</details>
-
+* AMOF :- As a matter of fact
+* BAU :- Business as usual 
+* NVM :- Nevermind
 
 * msg :- Message
 * CC :- Carbon copy
 * BCC :- Blind carbon copy 
+* JJ :- Just joking
+* TMI :- Too much information
+* 
 
 * DOB :- Date of birth 
 * NOOB :- Newbie
 * ISO :- In search of
 * HTH :- Hope this helps
+* LDR :- Long distance relationship
+* JK :- Just kidding
+* SEC :- Second
+* GG :- Good game
+* GJ :- Good job
+* SRY :- Sorry
+* CTN :- Can't talk now
+* TCO :- Taken care of
+* F2F :- Face to face
 
-<details><summary> LAMO</summary>
-Laughing my a*s of 
-</details>
+* LMAO :- Laughing my a*s of 
+* ZZZ :- Sleeping
+* RBTL :- Read between lines
+* AFAIK :- As far as i know
+* YW :- Your welcome
+* YNT :- Why not
+* TTT :- Thought that, too
+* TSTB :- The sooner, the better
+* ROFL :- Rolling on the floor laughing
+* HF :- Have fun
+* B4 :- Before
+* QT :- Quite
 
-<details><summary>NP </summary>
-No problem
-</details>
-
+* NP :- No problem
 
 * LMK :- Let me know 
 * TGIF :- Thank go it's friday 
 * TBA :- To be announced
 * TBD :- To be discussed
+* ITT :- In this thread
 * ETA :- Estimated tiem of arrival
 * FOMO :- Fear of missing out
 * N/A :- Not available, Not applicable
 * IMO :- Im my opinion
 * T+  :- Think Positive
+* IAC :- In any case
 * TIME :- Tears in my eyes
 * CCL :- Child care leave
 * OMG :- Oh my god
 * W/E :- Whatever
 * CYE :- Check your email
+* POS :- Parent over shoulder
+* B/W :- Between
+* MMB :- Message me back
+* YCM :- You copied me
 * 
 
 
