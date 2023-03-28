@@ -1,39 +1,33 @@
 # Shorthand_Typing
 
-<details><summary>ASAP</summary>
-As soon as possible
-</details>
-<details><summary>LOL</summary>
-Laughing out loud
-</details>
+* ASAP :-  As soon as possible
 
-<details><summary>BTW</summary>
-By the way
-</details>
 
-<details><summary>IDC</summary>
-I don't care
-</details>
+* LOL :- Laughing out loud
 
-<details><summary>TBH</summary>
-To be honest
-</details>
 
-<details><summary>TBF</summary>
-To be fair
-</details>
 
-<details><summary>ATM</summary>
-At the moment
-</details>
+* BTW :- By the way
 
-<details><summary>OFC</summary>
-Of course
-</details>
 
-<details><summary>IRL</summary>
-In real life
-</details>
+
+* IDC :- I don't care
+
+
+* TBH :- To be honest
+
+
+
+* TBF :- To be fair
+
+* ATM :- At the moment
+
+
+
+* OFC :- Of course
+
+
+* IRL :- In real life
 
 <details><summary>QOL</summary>
 Quality of life
@@ -170,6 +164,10 @@ Point of view
 Call you later
 </details>
 
+* BRB :- Be right back 
+* YOLO :- You only live once
+* PPL :- People
+
 <details><summary> AAMOF</summary>
 As a matter of fact
 </details>
@@ -182,9 +180,15 @@ Business as usual
 Nevermind
 </details>
 
-<details><summary>MSG </summary>
-Message
-</details>
+
+* msg :- Message
+* CC :- Carbon copy
+* BCC :- Blind carbon copy 
+
+* DOB :- Date of birth 
+* NOOB :- Newbie
+* ISO :- In search of
+* HTH :- Hope this helps
 
 <details><summary> LAMO</summary>
 Laughing my a*s of 
@@ -194,9 +198,22 @@ Laughing my a*s of
 No problem
 </details>
 
-<details><summary> </summary>
 
-</details>
+* LMK :- Let me know 
+* TGIF :- Thank go it's friday 
+* TBA :- To be announced
+* TBD :- To be discussed
+* ETA :- Estimated tiem of arrival
+* FOMO :- Fear of missing out
+* N/A :- Not available, Not applicable
+* IMO :- Im my opinion
+* T+  :- Think Positive
+* TIME :- Tears in my eyes
+* CCL :- Child care leave
+* OMG :- Oh my god
+* W/E :- Whatever
+* CYE :- Check your email
+* 
 
 
 
