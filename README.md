@@ -91,7 +91,7 @@
 
 * TYT :- Take your time
 
-Talk to you later
+* TTYL :- Talk to you later
 
 * POV :- Point of view
 
@@ -111,7 +111,13 @@ Talk to you later
 * BCC :- Blind carbon copy 
 * JJ :- Just joking
 * TMI :- Too much information
-* 
+* ABT :- About
+* ACK :- Acknowledge
+* AIR :- As i remember
+* COB :- Close of Business
+* COL :- Crying out loud
+* FYI :- For Your Information
+* HRY :- Hurry
 
 * DOB :- Date of birth 
 * NOOB :- Newbie
@@ -126,6 +132,9 @@ Talk to you later
 * CTN :- Can't talk now
 * TCO :- Taken care of
 * F2F :- Face to face
+* GBY :- God bless You
+* HOOD :- Neighbourhood
+
 
 * LMAO :- Laughing my a*s of 
 * ZZZ :- Sleeping
@@ -141,7 +150,20 @@ Talk to you later
 * QT :- Quite
 
 * NP :- No problem
+* 2B :- To be
+* 4 :- Four
+* 4GET :- Forget
+* 4GOT :- Forgot
+* 4GM :- Forgive me
+* 4EVER :- Forever
+* 4N :- Foreign
+* 4NR :- Foreigner
+* 4FRWD :- Forward
+* HSIK :- How should i know
+* IRT :- In regards to
+* WFM :- works for me
 
+*121 :- One to One
 * LMK :- Let me know 
 * TGIF :- Thank go it's friday 
 * TBA :- To be announced
@@ -162,7 +184,15 @@ Talk to you later
 * B/W :- Between
 * MMB :- Message me back
 * YCM :- You copied me
-* 
+* 1CE :- Once
+* 10Q :- Thank you
+* 143 :- I love you
+* 182 :- I hate you
+* MVP :- Most valuable player
+* PFA :- Please find attached
+* PFB :- Please find below
+
+
 
 
 
