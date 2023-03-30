@@ -163,7 +163,7 @@
 * IRT :- In regards to
 * WFM :- works for me
 
-*121 :- One to One
+* 121 :- One to One
 * LMK :- Let me know 
 * TGIF :- Thank go it's friday 
 * TBA :- To be announced
