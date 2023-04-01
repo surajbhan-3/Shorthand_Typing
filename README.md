@@ -55,7 +55,7 @@
 
 * L8 :- Late
 
-
+* IYKYK :- If you Know you know 
 
 * GTH :- Go to hell
 
