@@ -8,6 +8,7 @@
 
 
 * BTW :- By the way
+* BWL :- Bursting with laughter
 
 
 
@@ -50,6 +51,8 @@
 * BEG :- Big evil grin
 * STR8 :- Straight
 * BBL :- Be back later
+* CSL :- Can't stop laughing
+*YGTR :- You got that right
 
 
 
