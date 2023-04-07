@@ -4,6 +4,7 @@
 
 
 * LOL :- Laughing out loud
+* DR  :- Didn't read
 
 
 
