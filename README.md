@@ -53,7 +53,8 @@
 * STR8 :- Straight
 * BBL :- Be back later
 * CSL :- Can't stop laughing
-*YGTR :- You got that right
+* YGTR :- You got that right
+* SMH :- Shaking my head
 
 
 
